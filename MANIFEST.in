@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include administrative_correspondence *.css
+recursive-include administrative_correspondence *.csv
+recursive-include administrative_correspondence *.html
+recursive-include administrative_correspondence *.ico
+recursive-include administrative_correspondence *.js
+recursive-include administrative_correspondence *.json
+recursive-include administrative_correspondence *.md
+recursive-include administrative_correspondence *.png
+recursive-include administrative_correspondence *.py
+recursive-include administrative_correspondence *.svg
+recursive-include administrative_correspondence *.txt
+recursive-exclude administrative_correspondence *.pyc
