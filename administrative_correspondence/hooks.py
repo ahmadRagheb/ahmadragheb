@@ -126,4 +126,5 @@ app_license = "MIT"
 # override_doctype_dashboards = {
 # 	"Task": "administrative_correspondence.task.get_dashboard_data"
 # }
+fixtures = [ "Custom Field"]
 
